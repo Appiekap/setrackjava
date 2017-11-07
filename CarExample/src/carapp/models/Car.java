@@ -57,6 +57,10 @@ public class Car {
         }
     }
 
+    public void doSomething() {
+        String wat = "iets!";
+    }
+
 
 
 
